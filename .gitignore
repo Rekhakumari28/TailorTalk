@@ -1,0 +1,6 @@
+# Environment variables
+.env
+
+# Credentials folder
+/credentials
+# OR just the file:
