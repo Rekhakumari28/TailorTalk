@@ -8,9 +8,11 @@ Give the basic answers, it will gives you weather report.
 ```
 git clone https://github.com/Rekhakumari28/TailorTalk
 cd TailorTalk
-// backend
+
+# backend
 uvicorn main:app --reload
-//frontend
+
+#frontend
 cd frontend
 streamlit run app.py
 ```
